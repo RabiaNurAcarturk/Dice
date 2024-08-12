@@ -33,12 +33,15 @@ const GradyanYazisi.purple({super.key})
       ),
       child: Center(
         child: DiceRoller(),
+
       ),
     );
   }
 }
-
+//bussra buraya commit attı imza kaşe mühür !!
 /* class GradyanYazisi extends StatelessWidget {
+
+
   const GradyanYazisi({super.key, required this.colors});
  
  final List<Color> colors;
