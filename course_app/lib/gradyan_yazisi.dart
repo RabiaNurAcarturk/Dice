@@ -39,6 +39,7 @@ const GradyanYazisi.purple({super.key})
   }
 }
 //bussra buraya commit attı imza kaşe mühür !!
+//busra kalp rabia
 /* class GradyanYazisi extends StatelessWidget {
 
 
